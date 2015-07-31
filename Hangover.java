@@ -8,7 +8,7 @@ import java.util.Scanner;
  * @author kaling
  *
  */
-public class Hangover
+class Hangover
 {
     public static void main(String[] args)
     {
